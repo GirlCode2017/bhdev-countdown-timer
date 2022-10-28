@@ -2,6 +2,8 @@ Countdown Timer
 
 A timer that allows for quick implementation in your everyday projects. Developed for in-house use at [Banyan Hill Publishing, LLC.](https://www.banyanhill.com) This program was written using the JavaScript OOP pattern. Basic knowledge of this pattern is a recommended, but not required.
 
+View project [README.html](https://cloudcollective.s3.amazonaws.com/html/countdownTimer/README.html)
+
 Table of Contents
 
 
