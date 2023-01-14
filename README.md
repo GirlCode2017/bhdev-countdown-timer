@@ -224,7 +224,7 @@ You can also right click on the broswer's page and use the menu to inspect the p
 Special Thanks
 ---
 
-+ Dan Wagner ( `debugging master` )
++ [ifdan](https://github.com/ifdan) ( `debugging master` )
 
 [top ↑](#countdown-timer)
 
